@@ -1,0 +1,12 @@
+# Ambientes virtuais e bibliotecas compiladas
+**/venv/
+cli-studio-deb/opt/cli-command-studio/venv/
+
+# Pacotes gerados
+*.deb
+
+# Caches do Python e do sistema
+__pycache__/
+*.py[cod]
+.directory
+.DS_Store

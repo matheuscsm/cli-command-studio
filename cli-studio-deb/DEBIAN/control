@@ -1,0 +1,8 @@
+Package: cli-command-studio
+Version: 1.0.0
+Architecture: amd64
+Maintainer: Matheus
+Depends: python3, python3-tk, ffmpeg
+Section: utils
+Priority: optional
+Description: CLI Command Studio com yt-dlp, FFmpeg, Instaloader e spotDL embutidos.

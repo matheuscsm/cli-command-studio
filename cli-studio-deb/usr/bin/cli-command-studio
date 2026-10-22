@@ -1,0 +1,3 @@
+#!/bin/bash
+export PATH="/opt/cli-command-studio/venv/bin:$PATH"
+exec /opt/cli-command-studio/venv/bin/python3 /opt/cli-command-studio/cli_command_studio.py "$@"

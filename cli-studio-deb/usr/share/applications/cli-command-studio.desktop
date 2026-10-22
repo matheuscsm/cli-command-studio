@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=CLI Command Studio
+Comment=Interface gráfica para yt-dlp, FFmpeg, Instaloader e spotDL
+Exec=/usr/bin/cli-command-studio
+Icon=/usr/share/pixmaps/cli-command-studio.png
+Terminal=false
+Categories=AudioVideo;Utility;
+StartupWMClass=Clicommandstudio
